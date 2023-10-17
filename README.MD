@@ -1,4 +1,4 @@
-<h1 align="center"> Análise de gráficos com Python </h1>
+<h1 align="center">🐍Análise de gráficos com Python🐍 </h1>
 
 <p align="center">
 </p>
@@ -18,9 +18,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- PYTHON ()
-- PANDAS ()
-- PLOTLY EXPRESS()
+- PYTHON (https://www.python.org/)
+- PANDAS (https://pandas.pydata.org/)
+- PLOTLY EXPRESS(https://plotly.com/)
 
 ## 💻 Projeto
 
